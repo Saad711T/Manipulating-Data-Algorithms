@@ -9,7 +9,7 @@ Notebooks for manipulating data algorithms in Data Science and ML
 
 #### Using
 All practices using this book :
-![image](notebooks/book.jpg)
+<img src="notebooks/book.jpg" width="500px" alt="photo">
 
 ## Credits
 [0xSaad](https://x.com/0xdonzdev)
