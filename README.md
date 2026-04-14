@@ -12,7 +12,7 @@ All practices using this book :
 
 <br>
 
-<img src="notebooks/book.jpg" width="500px" alt="photo">
+<img src="img/book.jpg" width="500px" alt="photo">
 
 <br>
 
